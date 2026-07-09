@@ -1,7 +1,4 @@
-What is devops ?
-"When the development team develops a software, it is handed over to the operations team for deployment and maintenance. DevOps helps both teams collaborate, automates the build, testing, and deployment process, bridges the gap between development and operations, and helps deliver software faster and more reliably."
-
-How to install the ubantu in Windows 11?
+How to install the ubuntu in Windows 11?
 Step_1 :- Open the powershell as a admin mode
 Step_2 :- Type this command 
 Command_1 : - dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
@@ -12,4 +9,4 @@ Step_5 :- Type this command
 Command_1 :- wsl --set-default-version 2
 Command_2 :- wsl --install -d Ubuntu
 
-Now we able to use the ubantu 
+Now we able to use the ubuntu 
